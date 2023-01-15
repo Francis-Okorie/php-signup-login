@@ -1,0 +1,36 @@
+body {
+	background-color: rgb(218, 214, 221);
+}
+
+button {
+	border: 1px solid blue;
+}
+
+.log {
+    color: black;
+}
+
+.center input {
+  width: 300px;
+  color: brown;
+}
+
+.up {
+    margin-top: 1rem;
+}
+
+.top {
+    margin-top: 1rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.top button {
+    padding: .2rem 1.5rem;
+}
+
+.top a {
+    color: black;
+    font-size: 1.1rem;
+    text-decoration: none;
+}

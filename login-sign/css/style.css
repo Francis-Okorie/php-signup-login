@@ -1,0 +1,12 @@
+body {
+	background-color: blueviolet;
+}
+
+button {
+	border: 1px solid blue;
+}
+
+.center input {
+  width: 300px;
+  color: brown;
+}
